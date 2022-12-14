@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fayssal6449
-- 👀 I’m interested in antenna patch fir5G
+- 👀 I’m interested in antenna patch for 5G
 - 🌱 I’m currently learning 2 doctorat..
 - 💞️ I’m looking to collaborate on new design MIMO antenna patch for 5G
 - 📫 How to reach me (f.fetatenia@gmail.com)
